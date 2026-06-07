@@ -1,0 +1,10 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Верхний фрейм</title>
+</head>
+<body>
+    <h2>Верхний фрейм</h2>
+</body>
+</html>
